@@ -1,0 +1,17 @@
+{
+    "name": "com.pablosorribes.fmodhelper",
+    "displayName": "Pablo's Amazing Fmod Helper",
+    "version": "0.1.0",
+    "unity": "2019.3",
+	"author": "Pablo Sorribes Bernhard",
+    "description": "Add this package to get easier functions for doing Fmod-related stuff through code.",
+    "keywords": [
+        "extensions",
+        "unity",
+        "fmod",
+        "Pablo Sorribes Bernhard"
+    ],
+    "category": "Unity",
+	"dependencies": {
+	}
+}
