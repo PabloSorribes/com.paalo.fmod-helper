@@ -1,7 +1,7 @@
 {
     "name": "PabloSorribes.FmodHelper.Editor",
     "references": [
-        ""
+        "PabloSorribes.FmodHelper.Runtime"
     ],
     "includePlatforms": [
         "Editor"
