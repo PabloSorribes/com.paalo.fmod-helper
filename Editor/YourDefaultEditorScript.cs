@@ -5,8 +5,12 @@ using UnityEditor;
 
 namespace PabloSorribes.FmodHelper
 {
+	[CustomEditor(typeof(FmodHelperExamples))]
 	public class YourDefaultEditorScript : Editor 
 	{
-		//TestyTest    
+		public override void OnInspectorGUI()
+		{
+			base.OnInspectorGUI();
+		}
 	}
 }

@@ -1,7 +1,8 @@
 {
     "name": "PabloSorribes.FmodHelper.Editor",
     "references": [
-        "PabloSorribes.FmodHelper.Runtime"
+        "PabloSorribes.FmodHelper.Runtime",
+        "FmodAssemblyHijacker"
     ],
     "includePlatforms": [
         "Editor"

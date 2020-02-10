@@ -1,7 +1,8 @@
 {
     "name": "PabloSorribes.FmodHelper.Runtime",
-    "references": [],
-    "optionalUnityReferences": [],
+    "references": [
+        "FmodAssemblyHijacker"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -9,5 +10,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
