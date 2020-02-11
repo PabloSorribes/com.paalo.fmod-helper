@@ -215,7 +215,7 @@ GameObject:
   - component: {fileID: 1624379539}
   - component: {fileID: 1624379538}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: FmodHelperExamples
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -233,6 +233,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a61305b371d605c45a2a61b3efd4b353, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  assemblyDefinitionDefaultPaths: {fileID: 4900000, guid: 81f5f051e1cc4044da44da2bc4907423,
+    type: 3}
+  assemblyDefinitionJsonTemplate: {fileID: 0}
 --- !u!4 &1624379539
 Transform:
   m_ObjectHideFlags: 0
