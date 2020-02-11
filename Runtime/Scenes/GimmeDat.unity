@@ -235,7 +235,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   assemblyDefinitionDefaultPaths: {fileID: 4900000, guid: 81f5f051e1cc4044da44da2bc4907423,
     type: 3}
-  assemblyDefinitionJsonTemplate: {fileID: 0}
+  assemblyDefinitionJsonTemplate: {fileID: 4900000, guid: ca35efa0062197e49bc580eb32f0a938,
+    type: 3}
 --- !u!4 &1624379539
 Transform:
   m_ObjectHideFlags: 0
