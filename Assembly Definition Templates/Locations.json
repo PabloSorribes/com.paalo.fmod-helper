@@ -1,0 +1,7 @@
+{
+    "DefaultFmodPluginPath": "Assets/Plugins/",
+    "PaaloFmod_Core_AssemblyHijacker_Path": "PaaloFmod_Core_AssemblyHijacker.asmdef",
+    "PaaloFmod_Editor_AssemblyHijacker_Path": "Editor/FMOD/PaaloFmod_Editor_AssemblyHijacker.asmdef",
+    "PaaloFmod_Timeline_AssemblyHijacker_Path": "FMOD/Timeline/PaaloFmod_Timeline_AssemblyHijacker.asmdef",
+    "PaaloFmod_TimelineEditor_AssemblyHijacker_Path": "Editor/FMOD/Timeline/PaaloFmod_TimelineEditor_AssemblyHijacker.asmdef"
+}

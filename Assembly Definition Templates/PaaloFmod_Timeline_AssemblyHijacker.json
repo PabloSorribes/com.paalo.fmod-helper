@@ -1,12 +1,10 @@
 {
-    "name": "PabloSorribes.FmodHelper.Editor",
+    "name": "PaaloFmod_Timeline_AssemblyHijacker",
     "references": [
-        "GUID:898bc699034193c40ac8267a557b16ec",
-        "GUID:0db08d6a38de3f940a17cb029cb2039e"
+        "PaaloFmod_Core_AssemblyHijacker",
+        "Unity.Timeline"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
