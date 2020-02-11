@@ -1,7 +1,7 @@
 {
     "name": "PabloSorribes.FmodHelper.Runtime",
     "references": [
-        "FmodAssemblyHijacker"
+        "GUID:0db08d6a38de3f940a17cb029cb2039e"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
