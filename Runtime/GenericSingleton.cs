@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PabloSorribes.FmodHelper
+namespace Paalo.FmodHelper
 {
 
 	public abstract class GenericSingleton<T> : Singleton where T : MonoBehaviour

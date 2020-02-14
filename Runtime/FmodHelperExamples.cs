@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace PabloSorribes.FmodHelper
+namespace Paalo.FmodHelper
 {
 	public class FmodHelperExamples : MonoBehaviour
 	{
@@ -11,7 +11,7 @@ namespace PabloSorribes.FmodHelper
 
 		private void Start()
 		{
-			PabloSorribes.FmodHelper.AudioManager.Instance.PlayOneShot("event:/TestEvent");
+			Paalo.FmodHelper.AudioManager.Instance.PlayOneShot("event:/TestEvent");
 
 		}
 

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PabloSorribes.FmodHelper
+namespace Paalo.FmodHelper
 {
 	/// <summary>
 	/// Singleton wrapper-class for accessing the most common functions needed from Fmod in a more convenient way. 
