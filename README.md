@@ -1,4 +1,4 @@
-# com.paalo.fmod-helper
+# Pablo's FMOD Helper
 Add this package to get easier functions for doing Fmod-related stuff through code.
 
 # Requirements
